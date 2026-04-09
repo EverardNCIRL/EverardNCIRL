@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @EverardNCIRL
-- 👀 I’m interested in becoming a blockchain developer
-- 🌱 I’m currently learning the tools to create blockchain applications
-- 💞️ I’m looking to collaborate on DAPP creation
-- 📫 How to reach me www.linkedin.com/in/lisa-everard-0a482322
+- 👋 Hi, I’m rw
+
 
 
 <!---
